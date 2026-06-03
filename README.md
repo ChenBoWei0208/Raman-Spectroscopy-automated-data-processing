@@ -13,6 +13,7 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Download the Project
 Click the green **Code** button at the top right, then select **Download ZIP** and extract it. 
 Alternatively, you can clone this repository using Git:
+
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -20,6 +21,18 @@ cd your-repo-name
 ### 2. Install Dependencies
 Open your Terminal or Command Prompt (CMD), navigate to the project directory, and run the following command to install all required packages:
 
+```text
+Correct Path:
+└── Raman-Spectroscopy-automated-data-processing-main/  <-- You should be here!
+    ├── widget.py
+    ├── ui_form.py
+    └── requirements.txt
+If your terminal says No such file or directory: 'requirements.txt', it means you are stuck in the outer wrapper folder. Simply run:
+```
+```Bash
+cd Raman-Spectroscopy-automated-data-processing-main
+```
+Then install:
 ```bash
 pip install -r requirements.txt
 ```
