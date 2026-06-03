@@ -1,7 +1,7 @@
 ## Description
 This is an automated Raman spectra data processing tool built with Python >=3.8 and PySide6 (Qt). 
 
-### Key Features:
+### Key Features (Underconstruction):
 * **Spectra Drawing & Mapping:** Visualize Raman spectra and generate spatial intensity maps.
 * **Data Analysis:** Perform intensity calculations and baseline corrections.
 * **Machine Learning:** Integrated unsupervised learning tools such as Principal Component Analysis (PCA) for spectra classification.
@@ -21,13 +21,12 @@ cd Raman-Spectroscopy-automated-data-processing
 ### 2. Install Dependencies
 Open your Terminal or Command Prompt (CMD), navigate to the project directory, and run the following command to install all required packages:
 
-```text
 Correct Path:
 └── Raman-Spectroscopy-automated-data-processing-main/  <-- You should be here!
     ├── widget.py
     ├── ui_form.py
     └── requirements.txt
-```
+
 Then install:
 ```bash
 pip install -r requirements.txt
