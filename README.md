@@ -28,7 +28,7 @@ Correct Path:
     ├── ui_form.py
     └── requirements.txt
 ```
-Then install:
+Install:
 ```bash
 pip install -r requirements.txt
 ```
