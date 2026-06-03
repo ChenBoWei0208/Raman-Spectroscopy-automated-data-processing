@@ -15,8 +15,8 @@ Click the green **Code** button at the top right, then select **Download ZIP** a
 Alternatively, you can clone this repository using Git:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/ChenBoWei0208/Raman-Spectroscopy-automated-data-processing.git
+cd Raman-Spectroscopy-automated-data-processing
 ```
 ### 2. Install Dependencies
 Open your Terminal or Command Prompt (CMD), navigate to the project directory, and run the following command to install all required packages:
@@ -27,14 +27,14 @@ Correct Path:
     ├── widget.py
     ├── ui_form.py
     └── requirements.txt
-If your terminal says No such file or directory: 'requirements.txt', it means you are stuck in the outer wrapper folder. Simply run:
-```
-```Bash
-cd Raman-Spectroscopy-automated-data-processing-main
 ```
 Then install:
 ```bash
 pip install -r requirements.txt
+```
+If your terminal says No such file or directory: 'requirements.txt', it means you are stuck in the outer wrapper folder. Simply run:
+```Bash
+cd Raman-Spectroscopy-automated-data-processing-main
 ```
 ### 3. Run the Application
 Once the installation is complete, run the main file widget.py to launch the GUI window:
