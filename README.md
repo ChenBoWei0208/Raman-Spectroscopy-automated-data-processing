@@ -15,7 +15,7 @@ Click the green **Code** button at the top right, then select **Download ZIP** a
 Alternatively, you can clone this repository using Git:
 
 ```bash
-https://github.com/ChenBoWei0208/Raman-Spectroscopy-automated-data-processing.git
+git clone https://github.com/ChenBoWei0208/Raman-Spectroscopy-automated-data-processing.git
 cd Raman-Spectroscopy-automated-data-processing
 ```
 ### 2. Install Dependencies
