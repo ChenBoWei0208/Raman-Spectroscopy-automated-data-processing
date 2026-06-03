@@ -1,5 +1,5 @@
 ## Description
-This is an automated Raman spectra data processing tool built with Python >=3.8 and PySide6 (Qt). 
+This is an automated Raman spectra data processing tool built with Python >=3.10 and PySide6 (Qt). 
 
 ### Key Features (Underconstruction):
 * **Spectra Drawing & Mapping:** Visualize Raman spectra and generate spatial intensity maps.
