@@ -20,14 +20,14 @@ cd Raman-Spectroscopy-automated-data-processing
 ```
 ### 2. Install Dependencies
 ```text
-Open your Terminal or Command Prompt (CMD), navigate to the project directory, and run the following command to install all required packages:
-
 Correct Path:
 └── Raman-Spectroscopy-automated-data-processing-main/  <-- You should be here!
     ├── widget.py
     ├── ui_form.py
     └── requirements.txt
 ```
+Open your Terminal or Command Prompt (CMD), navigate to the project directory, and run the following command to install all required packages:
+
 Install:
 ```bash
 pip install -r requirements.txt
