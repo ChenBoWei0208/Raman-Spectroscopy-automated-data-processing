@@ -18,6 +18,7 @@ Alternatively, you can clone this repository using Git:
 git clone https://github.com/ChenBoWei0208/Raman-Spectroscopy-automated-data-processing.git
 cd Raman-Spectroscopy-automated-data-processing
 ```
+
 ### 2. Install Dependencies
 Open your Terminal or Command Prompt (CMD), navigate to the project directory
 ```text
@@ -37,6 +38,7 @@ If your terminal says No such file or directory: 'requirements.txt', it means yo
 ```Bash
 cd Raman-Spectroscopy-automated-data-processing-main
 ```
+
 ### 3. Run the Application
 Once the installation is complete, run the main file widget.py to launch the GUI window:
 ```bash
